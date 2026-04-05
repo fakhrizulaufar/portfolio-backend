@@ -42,7 +42,7 @@ API security & authentication
 Database optimization
 
 Contact
-GitHub: fakhrizulaufar
+GitHub: https://github.com/fakhrizulaufar
 
 Notes
 
